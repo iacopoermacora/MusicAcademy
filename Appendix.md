@@ -58,7 +58,7 @@ Insert description here
 
                 *Table 3: learning material examples* 
 
-|  | The staff has 5 lines and 4 spaces:  ![][LearningMaterials/L1.png] |
+|  | The staff has 5 lines and 4 spaces:  ![L1][LearningMaterials/L1.png] |
 | :---- | :---- |
 |  | The treble clef is positioned on the second line (from below).  ![][LearningMaterials/L2.png] |
 | 3 | Music notes flashcards:![][LearningMaterials/L3.png] |
