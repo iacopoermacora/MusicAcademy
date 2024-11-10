@@ -32,7 +32,7 @@ Insert description here
 
 ## **Appendix B. Declarative and procedural knowledge** 
 
-*Table 2: Pairs of Topic and Procedural Skills*
+**Table 2: Pairs of Topic and Procedural Skills**
 
 | Unit | Skill  | Topic | Learning material | Assessment material |
 | :---- | :---- | :---- | :---- | :---- |
@@ -56,23 +56,24 @@ Insert description here
 
 **Appendix D. Learning material** 
 
-                *Table 3: learning material examples* 
-
-|  | The staff has 5 lines and 4 spaces:  ![](LearningMaterials/L1.png) |
+**Table 3: learning material examples** 
+|  | Example |
 | :---- | :---- |
-|  | The treble clef is positioned on the second line (from below).  ![](LearningMaterials/L2.png) |
-| 3 | Music notes flashcards:![](LearningMaterials/L3.png) |
-| 4,  | The notes are in the following order: ![](LearningMaterials/L4.png) |
-| 5\.  | The E is on the first line (from below):  ![](LearningMaterials/L5.png) |
-| 6 | Diagram of note durations:  ![](LearningMaterials/L6.png) |
+| 1. | The staff has 5 lines and 4 spaces:  ![](LearningMaterials/L1.png) |
+| 2. | The treble clef is positioned on the second line (from below).  ![](LearningMaterials/L2.png) |
+| 3. | Music notes flashcards:![](LearningMaterials/L3.png) |
+| 4. | The notes are in the following order: ![](LearningMaterials/L4.png) |
+| 5. | The E is on the first line (from below):  ![](LearningMaterials/L5.png) |
+| 6. | Diagram of note durations:  ![](LearningMaterials/L6.png) |
 
 **Appendix E. Assessment material** 
 
                 *Table 4: assessment material example* 
 
-|  | How many lines does the staff have? (choose the correct option)  3 4 5 |
+|  | Example |
 | :---- | :---- |
-|   | Drag the clef on the staff  ![](LearningMaterials/E2.1.png)![](LearningMaterials/E2.2.png) |
-|  | Fill in the blanks with the order of the notes:  C … E F … A B |
-|  | What is the note shown on the staff ? \_\_\_\_.  ![](LearningMaterials/E4.png)  |
-| 5\. ll in the blanks to makn | Fill in the blanks to make each side the same duration: ![](LearningMaterials/E5.png) |
+| 1. | How many lines does the staff have? (choose the correct option) 3 4 5 |
+| 2. | Drag the clef on the staff  ![](LearningMaterials/E2.1.png)![](LearningMaterials/E2.2.png) |
+| 3. | Fill in the blanks with the order of the notes:  C … E F … A B |
+| 4. | What is the note shown on the staff ?  ![](LearningMaterials/E4.png)  |
+| 5. | Fill in the blanks to make each side the same duration: ![](LearningMaterials/E5.png) |
