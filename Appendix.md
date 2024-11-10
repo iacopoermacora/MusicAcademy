@@ -59,10 +59,10 @@ Insert description here
                 *Table 3: learning material examples* 
 
 |  | The staff has 5 lines and 4 spaces:  ![L1][LearningMaterials/L1.png] |
+|  | The staff has 5 lines and 4 spaces:  ![](LearningMaterials/L1.png) |
 | :---- | :---- |
 |  | The treble clef is positioned on the second line (from below).  ![][LearningMaterials/L2.png] |
 | 3 | Music notes flashcards:![][LearningMaterials/L3.png] |
-| 4,  | The notes are in the following order: ![][LearningMaterials/L4.png] |
 | 5\.  | The E is on the first line (from below):  ![][LearningMaterials/L5.png] |
 | 6 | Diagram of note durations:  ![][LearningMaterials/L6.png] |
 
@@ -72,7 +72,8 @@ Insert description here
 
 |  | How many lines does the staff have? (choose the correct option)  3 4 5 |
 | :---- | :---- |
-|   | Drag the clef on the staff  ![][LearningMaterials/E2.1.png]![][LearningMaterials/E2.2.png] |
+|   | Drag the clef on the staff  ![](LearningMaterials/E2.1.png)![](LearningMaterials/E2.2.png) |
 |  | Fill in the blanks with the order of the notes:  C … E F … A B |
 |  | What is the note shown on the staff ? \_\_\_\_.  ![][LearningMaterials/E4.png]  |
 | 5\. ll in the blanks to makn | Fill in the blanks to make each side the same duration: ![][LearningMaterials/E5.png] |
+|  | What is the note shown on the staff ? \_\_\_\_.  ![](LearningMaterials/E4.png)  |
