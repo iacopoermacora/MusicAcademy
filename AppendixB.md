@@ -1,6 +1,6 @@
-# **Appendix B. Declarative and procedural knowledge** 
+# **Appendix B. Domain Model - Learning and assessment material** 
 
-**Table 2: Pairs of Topic and Procedural Skills**
+**Table 2: Domain Model topics together with the learning and assessment material**
 
 | Unit | Skill  | Topic | Learning material | Assessment material |
 | :---- | :---- | :---- | :---- | :---- |
