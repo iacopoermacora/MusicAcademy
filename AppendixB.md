@@ -1,35 +1,3 @@
-# Appendix A: User Interface Screens
-
-This appendix provides an overview of various user interfaces used in the system. Each interface screenshot is accompanied by a brief description.
-
-## Appendix A.1: After Task Completion Page Interface
-![After Task Completion Page Interface](Interfaces/After%20task%20completion%20page%20interface.png)
-Insert description here
-
-## Appendix A.2: Exercises Page Interface - Pressing the Info Button
-![Exercises Page Interface - Pressing the Info Button](Interfaces/Exercises%20Page%20Interface,%20pressing%20the%20info%20button.png)
-Insert description here
-
-## Appendix A.3: Exercises Page Interface - Pressing the Third Hint Button
-![Exercises Page Interface - Pressing the Third Hint Button](Interfaces/Exercises%20Page%20Interface,%20pressing%20the%20third%20hint%20button.png)
-Insert description here
-
-## Appendix A.4: Task Overview Page Interface
-![Task Overview Page Interface](Interfaces/Task%20overview%20page%20Interface.png)
-Insert description here
-
-## Appendix A.5: Theory Page Interface
-![Theory Page Interface](Interfaces/theory%20page%20interface.png)
-Insert description here
-
-## Appendix A.6: Unit Progress Overview Page Interface
-![Unit Progress Overview Page Interface](Interfaces/unit%20progress%20overview%20page%20interface.png)
-Insert description here
-
-## Appendix A.7: Units Overview Page Interface
-![Units Overview Page Interface](Interfaces/Units%20overview%20page%20Interface.png)
-Insert description here
-
 # **Appendix B. Declarative and procedural knowledge** 
 
 **Table 2: Pairs of Topic and Procedural Skills**
@@ -53,42 +21,3 @@ Insert description here
 |  | Apply the flats and sharps to all notes present in the same bar  | Key signatures | When accidentals symbol in signature clef, then apply them to all pieces of music. When present on a note (e.g. G) , then apply to all Gs in that bar.  | Recognize if a note has accidentals. Multiple choice, circle the notes.  Explain (multiple choice) why it’s the case.  |
 |  | Make a note natural again  | Accidentals | If accidentals symbols are applied and the natural symbol (♮) is in front of the note, everything returns to natural form  | Recognize if a note is accidental or natural. Multiple choice, circle the note. Explain (multiple choice) why it’s the case.  |
 | **Solfeggio** | All previous skills, the interaction between multiple previous skills | Solfeggio | Interactive exercise where students can sing along with the app as it plays solfège | Present a simple rhythmic pattern and ask them to sing it back using solfège syllables, Play a melody using solfège and ask the student to write it down |
-
-# **Appendix C. Learning material** 
-
-**Table 3: learning material examples** 
-|  | Example |
-| :---- | :---- |
-| 1. | The staff has 5 lines and 4 spaces: <br><img src="LearningMaterials/L1.png" alt="description" height="150">|
-| 2. | The treble clef is positioned on the second line (from below). <br><img src="LearningMaterials/L2.png" alt="description" height="150">|
-| 3. | Music notes flashcards: <br><img src="LearningMaterials/L3.png" alt="description" height="150">|
-| 4. | The notes are in the following order: <br><img src="LearningMaterials/L4.png" alt="description" height="150">|
-| 5. | The E is on the first line (from below): <br><img src="LearningMaterials/L5.png" alt="description" height="150">|
-| 6. | Diagram of note durations: <br><img src="LearningMaterials/L6.png" alt="description" height="150">|
-
-# **Appendix D. Assessment material** 
-
-**Table 4: assessment material example**
-
-|  | Example |
-| :---- | :---- |
-| 1. | How many lines does the staff have? (choose the correct option) 3 4 5 |
-| 2. | Drag the clef on the staff <br><img src="LearningMaterials/E2.1.png" alt="description" height="150"><img src="LearningMaterials/E2.2.png" alt="description" height="150">|
-| 3. | Fill in the blanks with the order of the notes:  C … E F … A B |
-| 4. | What is the note shown on the staff ?  <br><img src="LearningMaterials/E4.png" alt="description" height="150">  |
-| 5. | Fill in the blanks to make each side the same duration: <br><img src="LearningMaterials/E5.png" alt="description" height="150"> |
-
-# **Appendix E. Hints examples**
-
-**Question Q1:**  
-What is the duration of a quarter note in 4/4 time?  
-Hint 1 (Minimal Help): Think about how many beats are in a measure of 4/4 time. How might a quarter note fit into that?  
-Hint 2 (Moderate Help): In 4/4 time, a full measure has 4 beats. How many quarter notes do you think would fit in one measure?  
-Hint 3 (Full Help): A quarter note lasts for 1 beat in 4/4 time. It takes 4 quarter notes to fill a measure.  
-
-**Question Q2:**  
-What is the difference between a natural note and a sharp note?  
-Hint 1 (Minimal Help): Consider what happens to a note's pitch when a sharp is applied.  
-Hint 2 (Moderate Help): A sharp raises the pitch of a note by a small interval. What interval do you think this is?  
-Hint 3 (Full Help): A sharp raises a note by one semitone, while a natural note has no alterations. For example, F sharp (F♯) is one semitone higher than F natural.  
-
