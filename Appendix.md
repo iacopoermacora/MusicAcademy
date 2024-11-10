@@ -59,12 +59,12 @@ Insert description here
 **Table 3: learning material examples** 
 |  | Example |
 | :---- | :---- |
-| 1. | The staff has 5 lines and 4 spaces:  ![](LearningMaterials/L1.png) <img src="LearningMaterials/L1.png" alt="description" height="200">|
-| 2. | The treble clef is positioned on the second line (from below).  ![](LearningMaterials/L2.png) |
-| 3. | Music notes flashcards:![](LearningMaterials/L3.png) |
-| 4. | The notes are in the following order: ![](LearningMaterials/L4.png) |
-| 5. | The E is on the first line (from below):  ![](LearningMaterials/L5.png) |
-| 6. | Diagram of note durations:  ![](LearningMaterials/L6.png) |
+| 1. | The staff has 5 lines and 4 spaces: <img src="LearningMaterials/L1.png" alt="description" height="150">|
+| 2. | The treble clef is positioned on the second line (from below). <img src="LearningMaterials/L2.png" alt="description" height="150">|
+| 3. | Music notes flashcards: <img src="LearningMaterials/L3.png" alt="description" height="150">|
+| 4. | The notes are in the following order: <img src="LearningMaterials/L4.png" alt="description" height="150">|
+| 5. | The E is on the first line (from below): <img src="LearningMaterials/L5.png" alt="description" height="150">|
+| 6. | Diagram of note durations: <img src="LearningMaterials/L6.png" alt="description" height="150">|
 
 **Appendix E. Assessment material** 
 
@@ -73,7 +73,7 @@ Insert description here
 |  | Example |
 | :---- | :---- |
 | 1. | How many lines does the staff have? (choose the correct option) 3 4 5 |
-| 2. | Drag the clef on the staff  ![](LearningMaterials/E2.1.png)![](LearningMaterials/E2.2.png) |
+| 2. | Drag the clef on the staff <img src="LearningMaterials/E2.1.png" alt="description" height="150"> <img src="LearningMaterials/E2.2.png" alt="description" height="150">|
 | 3. | Fill in the blanks with the order of the notes:  C … E F … A B |
-| 4. | What is the note shown on the staff ?  ![](LearningMaterials/E4.png)  |
-| 5. | Fill in the blanks to make each side the same duration: ![](LearningMaterials/E5.png) |
+| 4. | What is the note shown on the staff ?  <img src="LearningMaterials/E.4.png" alt="description" height="150">  |
+| 5. | Fill in the blanks to make each side the same duration: <img src="LearningMaterials/E.5.png" alt="description" height="150"> |
