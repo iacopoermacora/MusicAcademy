@@ -59,7 +59,7 @@ Insert description here
 **Table 3: learning material examples** 
 |  | Example |
 | :---- | :---- |
-| 1. | The staff has 5 lines and 4 spaces:  ![](LearningMaterials/L1.png) |
+| 1. | The staff has 5 lines and 4 spaces:  ![](LearningMaterials/L1.png) <img src="LearningMaterials/L1.png" alt="description" height="200">|
 | 2. | The treble clef is positioned on the second line (from below).  ![](LearningMaterials/L2.png) |
 | 3. | Music notes flashcards:![](LearningMaterials/L3.png) |
 | 4. | The notes are in the following order: ![](LearningMaterials/L4.png) |
